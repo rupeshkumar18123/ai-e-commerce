@@ -40,5 +40,5 @@ const searchGoogleProducts = async (req, res) => {
     res.status(500).json({ error: 'Failed to search products' });
   }
 };
-
+// this is just a dummy
 module.exports = { searchGoogleProducts };
