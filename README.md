@@ -125,9 +125,3 @@ Licensed under the [MIT License](LICENSE).
 
 Developed by [Rupesh Kumar](https://github.com/rupeshkumar18123) 🚀
 
-```
-
----
-
-If your actual tech stack or features differ (e.g., if you're using Tailwind, Stripe, Next.js, etc.), let me know so I can adjust it perfectly.
-```
