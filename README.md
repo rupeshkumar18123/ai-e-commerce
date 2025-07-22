@@ -1,8 +1,4 @@
-Here’s a professional and visually appealing `README.md` file template for your **AI E-Commerce** project, assuming it’s a MERN stack app integrated with AI-based features (e.g., product recommendations or search):
 
----
-
-````markdown
 # 🛒 AI E-Commerce
 
 AI E-Commerce is an intelligent, full-stack online shopping platform built with the MERN stack. It features an AI-powered product description generator, seamless user experience, secure authentication, and a responsive design. Ideal for building scalable e-commerce solutions with modern technologies and intelligent automation.
