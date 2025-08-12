@@ -88,11 +88,6 @@ OPENAI_API_KEY=your_openai_api_key
 
 ---
 
-## 📸 Screenshots
-
-*Add product page, cart UI, and admin dashboard screenshots here*
-
----
 
 ## 🛠️ Future Improvements
 
