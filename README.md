@@ -115,12 +115,6 @@ Pull requests are welcome! To contribute:
 
 ---
 
-## 📄 License
-
-Licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙋‍♂️ Author
 
 Developed by [Rupesh Kumar](https://github.com/rupeshkumar18123) 🚀
