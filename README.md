@@ -1,5 +1,6 @@
 
 # 🛒 AI E-Commerce
+### site is on working so it may not worjing well
 
 AI E-Commerce is an intelligent, full-stack online shopping platform built with the MERN stack. It features an AI-powered product description generator, seamless user experience, secure authentication, and a responsive design. Ideal for building scalable e-commerce solutions with modern technologies and intelligent automation.
 
