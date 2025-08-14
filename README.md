@@ -69,7 +69,7 @@ npm start
 
 ```bash
 cd ../frontend
-npm start
+npm run dev
 ```
 
 > The app runs at `http://localhost:3000`
