@@ -26,7 +26,7 @@ AI E-Commerce is an intelligent, full-stack online shopping platform built with 
 - **Database**: MongoDB, Mongoose
 - **AI Integration**: OpenAI API
 - **Auth**: JWT, Bcrypt
-- **Tools**: Postman, dotenv, Nodemon
+- **Tools**:  dotenv, Nodemon
 
 ---
 
