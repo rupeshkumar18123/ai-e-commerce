@@ -35,6 +35,35 @@ export const searchGoogleProducts = async (query) => {
   }
 };
 
+export const login = async (email, password) => {
+  try {
+    const response = await axios.post(`${API_BASE_URL}/auth/login`, { email, password });
+    return response.data;
+  } catch (error) {
+    throw error.response?.data?.error || 'Login failed';
+  }
+};
+
+export const signup = async (name, email, password) => {
+  try {
+    const response = await axios.post(`${API_BASE_URL}/auth/register`, { name, email, password });
+    return response.data;
+  } catch (error) {
+    throw error.response?.data?.error || 'Signup failed';
+  }
+};
+
+export const getProfile = async (token) => {
+  try {
+    const response = await axios.get(`${API_BASE_URL}/auth/profile`, {
+      headers: { Authorization: `Bearer ${token}` }
+    });
+    return response.data;
+  } catch (error) {
+    throw error.response?.data?.error || 'Failed to fetch profile';
+  }
+};
+
 
 // For production:
 // const API_BASE_URL = process.env.REACT_APP_API_URL;
